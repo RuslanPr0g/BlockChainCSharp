@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jAIjPSELoArATt0Z42+iKiUwQoxkOgjQxLVVrQ3iF9OOXH6PMHHCINi8pjebuAClyltHdinv3UIp6alwCEvkGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\BlockChainApp\\BlockChainApp.Tools\\BlockChainApp.Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
